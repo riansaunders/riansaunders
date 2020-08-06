@@ -23,7 +23,7 @@ See some of my [repositories](https://github.com/riansaunders?tab=repositories)
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350/topics/java/java.png">
 
 <br />
----
+
 
 ## Some Tools 
 
@@ -35,5 +35,7 @@ See some of my [repositories](https://github.com/riansaunders?tab=repositories)
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 <img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 <img align="left" alt="ASPNET" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png" />
+<br />
+<br />
 
-[Click here to learn more about my capabilities](https://riansaunders.com)
+#### [Click here to learn more about my capabilities](https://riansaunders.com)
