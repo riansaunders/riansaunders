@@ -1,6 +1,6 @@
 ### I'm Rian Saunders 🙋🏾‍♂️
 
-## Full Stack Developer, Big Brother and Tutor!
+## Full Stack Developer
 * 📚 Learner
 * ⛹🏾 Collaborator
 * 🏓 Fun-Haver
