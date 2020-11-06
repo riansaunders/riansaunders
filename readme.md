@@ -37,5 +37,3 @@ See some of my [repositories](https://github.com/riansaunders?tab=repositories)
 <img align="left" alt="ASPNET" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png" />
 <br />
 <br />
-
-#### [Click here to learn more about my capabilities](https://riansaunders.com)
