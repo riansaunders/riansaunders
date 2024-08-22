@@ -1,13 +1,13 @@
 ### I'm Rian Saunders 🙋🏾‍♂️
 
-## Full Stack Developer
+## Full Stack Engineer
 * 📚 Learner
 * ⛹🏾 Collaborator
 * 🏓 Fun-Haver
 * 🎯 Work-Hard(erer)
 * 🎃 Spooky Lover
 
-See some of my [repositories](https://github.com/riansaunders?tab=repositories)
+See some of [the work that I've published](https://github.com/riansaunders?tab=repositories)
 
 
 ## Some Languages 
